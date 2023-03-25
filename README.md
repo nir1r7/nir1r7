@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nir1r7
 - 👀 I’m interested in web dev and competitive programming
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Java
+- 🌱 I’m currently learning HTML, CSS, React-JS and Java
 - 📫 You can reach me by email (nir1r7@gmail.com) or by discord (nir1#3617)
 - 👍 Message if you are interested in working on a project together
 
