@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nir1r7
+- 👋 Hi my name is Nirvan
 - 👀 I’m interested in web dev and competitive programming
 - 🌱 I’m currently learning HTML, CSS, React-JS and Java
 - 📫 You can reach me by email (nir1r7@gmail.com) or by discord (nir1#3617)
